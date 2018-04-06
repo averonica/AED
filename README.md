@@ -5,4 +5,4 @@
 -1386128
 -Arias
 -Veronica
-    ![Manada de guanacos en el norte argentino](/sites/default/files/argentina_2_0.jpg)
+![Manada de guanacos en el norte argentino](/sites/default/files/argentina_2_0.jpg)
