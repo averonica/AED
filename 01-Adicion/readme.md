@@ -4,8 +4,8 @@
 - Veronica
 
 ### Etapa 1
- #### - Mostrar la suma de dos numeros ingresados por el usuario.
- #### - Modelo IPO
+- ####  Mostrar la suma de dos numeros ingresados por el usuario.
+- ####  Modelo IPO
  
 ![IPO](https://image.ibb.co/ei42HS/AlgIPO.png)
 
