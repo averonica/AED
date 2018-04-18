@@ -13,7 +13,7 @@
 - #### Lexico:
   a Ǝ Z (enteros), b Ǝ Z (enteros)
   a,b Ǝ Z (enteros)
- - ####  Representacion del Algoritmo
+ - ####  Representacion del Algoritmo:
  - #####  Visual: 
 ![Diagrama](https://image.ibb.co/fUHsj7/DIAG.png)
   - ##### Textual:
