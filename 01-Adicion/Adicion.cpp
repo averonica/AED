@@ -1,12 +1,12 @@
 /* JMS
  * 20130411
- * Adición
+ * AdiciÃ³n
  */
 
 #include <iostream>   
 
     int main(){
     int a, b;
-    cin >> a >> b;
-    cout << a+b; 
+    std::cin >> a >> b;
+    std::cout << a+b; 
     }
