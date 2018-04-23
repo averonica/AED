@@ -1,7 +1,4 @@
-- averonica
-- 1386128
-- Arias
-- Veronica
+
 
 - ### Etapa 1
 - ####  Mostrar la suma de dos numeros ingresados por el usuario.
@@ -17,8 +14,6 @@
  - #####  Visual: 
 ![Diagrama](https://image.ibb.co/fUHsj7/DIAG.png)
   - ##### Textual:
-        int main(){
-        int a, b;
-        cin >> a >> b;
-        cout << a+b; 
-        }
+  Leer a
+  Leer b
+  Mostrar a + b.
