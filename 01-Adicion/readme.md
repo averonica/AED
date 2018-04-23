@@ -14,6 +14,6 @@
  - #####  Visual: 
 ![Diagrama](https://image.ibb.co/fUHsj7/DIAG.png)
   - ##### Textual:
-  Leer a
-  Leer b
-  Mostrar a + b.
+   Leer a
+   Leer b
+   Mostrar a + b.
