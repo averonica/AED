@@ -1,4 +1,0 @@
-- averonica
-- 1386128
-- Arias
-- Veronica
